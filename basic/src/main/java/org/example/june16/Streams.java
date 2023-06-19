@@ -1,12 +1,11 @@
 package org.example.june16;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class Streams {
     public static void main(String[] args) {
 
-        String[] arr = new String[]{"hello", "hello2", "hellp", "hellq"};
+        String[] arr = new String[]{"hello", "hello2", "hells", "helly"};
         capitalAndSorted(arr);
         vowels(arr);
 
